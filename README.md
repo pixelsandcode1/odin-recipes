@@ -5,4 +5,4 @@ This project is a recipe website meant to demonstrate the use of relative and ab
 
 All photos used are my own. 
 
-Test line for key check.
+Post-Project Reflection: It was fun to learn many different HTML codes to reflect symbols and numbers. It makes me wonder if it is common practice for numbers or if numbers are used for convience. 
