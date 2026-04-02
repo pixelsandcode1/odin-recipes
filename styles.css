@@ -1,0 +1,9 @@
+h1, h3 {
+    color: purple;
+    display: block;
+}
+
+img {
+    height: auto;
+    width: auto;
+}
