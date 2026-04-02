@@ -1,9 +1,17 @@
-h1, h3 {
-    color: purple;
+h1, h2, h3 {
+    color: peru;
     display: block;
 }
 
 img {
-    height: auto;
+    height: 400px;
     width: auto;
+}
+
+.acai {
+    color: purple;
+}
+
+.taco {
+    color: red;
 }
